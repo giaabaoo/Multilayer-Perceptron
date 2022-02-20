@@ -45,4 +45,4 @@ python train_multiple_mlp.py --loss 'CE' --optimizer 'adam' –drop_out 0.2 --ep
 
 
 # Experimental Results
-The results and comments can be found at [Wandb](https://wandb.ai/mediaeval-sport/BB_Homework_DL/reports/Homework-1-Exercise-6--VmlldzoxNDc0NTY3)
+The results and comments can be found at [Wandb](https://wandb.ai/mediaeval-sport/BB_Homework_DL/reports/Homework-1-Exercise-6--VmlldzoxNDc0NTY3?accessToken=arnuynijwczemfk4m0nlk3wzanry65tvp5muvmi6vi7llk0v5qvf6gbin36kr5hf)
